@@ -56,3 +56,5 @@ Convert into portfolio website
 👩‍💻 Author
 Deekshitha Pedasingu
 GitHub: https://github.com/pedasingudeekshitha0-source⁠�
+Why This Project?
+This project was built to practice HTML and CSS fundamentals and improve frontend web development skills.
